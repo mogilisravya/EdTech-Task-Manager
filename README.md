@@ -12,6 +12,9 @@ A full-stack application for managing learning tasks with role-based access cont
 - **Filtering**: Filter tasks by progress status.
 - **Responsive UI**: Built with React and CSS.
 
+## Screenshots
+
+
 ## Tech Stack
 
 - **Backend**: Node.js, Express, MongoDB, Mongoose, JWT, bcrypt, Joi
