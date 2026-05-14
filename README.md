@@ -2,6 +2,10 @@
 
 A full-stack application for managing learning tasks with role-based access control for Students and Teachers.
 
+
+## Video link
+https://drive.google.com/file/d/1pL8Cgox7FFv_JOcQeAi1mP9rJ92NEC-w/view?usp=drive_link
+
 ## Screenshots
 
 <img width="1366" height="530" alt="Screenshot 1" src="https://github.com/user-attachments/assets/ff4e4a8a-4b33-44f4-b4d4-d38abe4c3d38" />
@@ -130,6 +134,3 @@ However, all core logic—especially the authentication flow, authorization rule
 - Enhance UI with a CSS framework like Tailwind CSS.
 - Add unit and integration tests.
 - Implement deployment to a platform like Render or Heroku.
-
-## Video link
-https://drive.google.com/file/d/1pL8Cgox7FFv_JOcQeAi1mP9rJ92NEC-w/view?usp=drive_link
