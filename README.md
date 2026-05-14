@@ -2,6 +2,10 @@
 
 A full-stack application for managing learning tasks with role-based access control for Students and Teachers.
 
+## Screenshots
+
+
+
 ## Features
 
 - **Authentication**: Email/password signup and login with JWT tokens.
@@ -11,9 +15,6 @@ A full-stack application for managing learning tasks with role-based access cont
 - **Task Management**: Create, read, update, delete tasks with title, description, due date, and progress status.
 - **Filtering**: Filter tasks by progress status.
 - **Responsive UI**: Built with React and CSS.
-
-## Screenshots
-
 
 ## Tech Stack
 
