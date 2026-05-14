@@ -4,7 +4,7 @@ A full-stack application for managing learning tasks with role-based access cont
 
 ## Screenshots
 
-https://github.com/mogilisravya/EdTech-Task-Manager/blob/21abc35dcec8d2239efcb0c095b7ffc90b44292d/Screenshot%201.png
+https://github.com/mogilisravya/EdTech-Task-Manager/blob/main/Screenshot%201.png?raw=true
 
 ## Features
 
